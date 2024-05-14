@@ -1,0 +1,441 @@
+# depslib dependency file v1.0
+1715642592 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds2\simulador\src\armaataque.cpp
+	"ArmaAtaque.hpp"
+
+1715642379 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds2\simulador\include\armaataque.hpp
+	<string>
+
+1715642610 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds2\simulador\src\armadefesa.cpp
+	"ArmaDefesa.hpp"
+
+1715642369 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds2\simulador\include\armadefesa.hpp
+	<string>
+
+1715642601 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds2\simulador\src\chaves.cpp
+	"Chaves.hpp"
+
+1715642617 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds2\simulador\include\chaves.hpp
+	"Personagem.hpp"
+
+1715642358 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds2\simulador\include\personagem.hpp
+	<string>
+	"ArmaAtaque.hpp"
+	"ArmaDefesa.hpp"
+
+1715642645 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds2\simulador\src\personagem.cpp
+	"Personagem.hpp"
+	"ArmaAtaque.hpp"
+	"ArmaDefesa.hpp"
+
+1715642631 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds2\simulador\src\colher.cpp
+	"ArmaAtaque.hpp"
+	"Colher.hpp"
+
+1715642673 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds2\simulador\include\colher.hpp
+	"ArmaAtaque.hpp"
+
+1715642657 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds2\simulador\src\escudo.cpp
+	"ArmaDefesa.hpp"
+	"Escudo.hpp"
+
+1715642703 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds2\simulador\include\escudo.hpp
+	"ArmaAtaque.hpp"
+	"ArmaDefesa.hpp"
+
+1715642693 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds2\simulador\main.cpp
+	<iostream>
+	<string>
+	"Rosa.hpp"
+	"Colher.hpp"
+	"Escudo.hpp"
+	"Chaves.hpp"
+	"Simulador.hpp"
+
+1715642709 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds2\simulador\include\rosa.hpp
+	"ArmaAtaque.hpp"
+
+1715642345 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds2\simulador\include\simulador.hpp
+	<vector>
+	<string>
+	"Personagem.hpp"
+
+1715642666 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds2\simulador\src\rosa.cpp
+	"ArmaAtaque.hpp"
+	"Rosa.hpp"
+
+1715642717 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds2\simulador\src\simulador.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"Simulador.hpp"
+	"Personagem.hpp"
+
+1715642693 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\main.cpp
+	<iostream>
+	<string>
+	"Rosa.hpp"
+	"Colher.hpp"
+	"Escudo.hpp"
+	"Chaves.hpp"
+	"Simulador.hpp"
+
+1715642709 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\rosa.hpp
+	"ArmaAtaque.hpp"
+
+1715642379 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\armaataque.hpp
+	<string>
+
+1715642673 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\colher.hpp
+	"ArmaAtaque.hpp"
+
+1715642703 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\escudo.hpp
+	"ArmaAtaque.hpp"
+	"ArmaDefesa.hpp"
+
+1715642369 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\armadefesa.hpp
+	<string>
+
+1715642617 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\chaves.hpp
+	"Personagem.hpp"
+
+1715642358 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\personagem.hpp
+	<string>
+	"ArmaAtaque.hpp"
+	"ArmaDefesa.hpp"
+
+1715642345 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\simulador.hpp
+	<vector>
+	<string>
+	"Personagem.hpp"
+
+1715642592 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\armaataque.cpp
+	"ArmaAtaque.hpp"
+
+1715642610 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\armadefesa.cpp
+	"ArmaDefesa.hpp"
+
+1715642631 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\colher.cpp
+	"ArmaAtaque.hpp"
+	"Colher.hpp"
+
+1715642657 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\escudo.cpp
+	"ArmaDefesa.hpp"
+	"Escudo.hpp"
+
+1715642645 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\personagem.cpp
+	"Personagem.hpp"
+	"ArmaAtaque.hpp"
+	"ArmaDefesa.hpp"
+
+1715642666 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\rosa.cpp
+	"ArmaAtaque.hpp"
+	"Rosa.hpp"
+
+1715642717 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\simulador.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"Simulador.hpp"
+	"Personagem.hpp"
+
+1715643048 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\bola.cpp
+	"ArmaAtaque.hpp"
+	"Bola.hpp"
+
+1715643163 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\bola.hpp
+	"ArmaAtaque.hpp"
+
+1715643383 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\botas.cpp
+	"ArmaDefesa.hpp"
+	"Botas.hpp"
+
+1715643499 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\botas.hpp
+	"ArmaAtaque.hpp"
+	"ArmaDefesa.hpp"
+
+1715643069 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\carta.cpp
+	"ArmaAtaque.hpp"
+	"Carta.hpp"
+
+1715643178 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\carta.hpp
+	"ArmaAtaque.hpp"
+
+1715643409 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\chapeu.cpp
+	"ArmaDefesa.hpp"
+	"Chapeu.hpp"
+
+1715643517 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\chapeu.hpp
+	"ArmaAtaque.hpp"
+	"ArmaDefesa.hpp"
+
+1715642810 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\chaves.cpp
+	"Chaves.hpp"
+
+1715643676 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\chiquinha.cpp
+	"Chiquinha.hpp"
+
+1715643755 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\chiquinha.hpp
+	"Personagem.hpp"
+
+1715643438 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\dinheiro.cpp
+	"ArmaDefesa.hpp"
+	"Dinheiro.hpp"
+
+1715643538 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\dinheiro.hpp
+	"ArmaAtaque.hpp"
+	"ArmaDefesa.hpp"
+
+1715643696 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\donaflorinda.cpp
+	"DonaFlorinda.hpp"
+
+1715643770 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\donaflorinda.hpp
+	"Personagem.hpp"
+
+1715643709 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\jaiminho.cpp
+	"Jaiminho.hpp"
+
+1715643783 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\jaiminho.hpp
+	"Personagem.hpp"
+
+1715643456 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\oculos.cpp
+	"ArmaDefesa.hpp"
+	"Oculos.hpp"
+
+1715643555 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\oculos.hpp
+	"ArmaAtaque.hpp"
+	"ArmaDefesa.hpp"
+
+1715643475 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\pasta.cpp
+	"ArmaDefesa.hpp"
+	"Pasta.hpp"
+
+1715643571 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\pasta.hpp
+	"ArmaAtaque.hpp"
+	"ArmaDefesa.hpp"
+
+1715643857 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\kiko.cpp
+	"Kiko.hpp"
+
+1715643798 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\kiko.hpp
+	"Personagem.hpp"
+
+1715643120 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\pirulito.cpp
+	"ArmaAtaque.hpp"
+	"Pirulito.hpp"
+
+1715643877 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\pirulito.hpp
+	"ArmaAtaque.hpp"
+
+1715643136 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\vassoura.cpp
+	"ArmaAtaque.hpp"
+	"Vassoura.hpp"
+
+1715643882 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\vassoura.hpp
+	"ArmaAtaque.hpp"
+
+1715644073 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\pagaraluguel.cpp
+	"ArmaAtaque.hpp"
+	"PagarAluguel.hpp"
+	<string>
+
+1715643197 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\pagaraluguel.hpp
+	"ArmaAtaque.hpp"
+
+1715644553 source:c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\src\srbarriga.cpp
+	"SrBarriga.hpp"
+
+1715643819 c:\users\rauld\onedrive\햞ea de trabalho\atvd_pds\simulador\include\srbarriga.hpp
+	"Personagem.hpp"
+
+1715648568 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\main.cpp
+	<iostream>
+	<string>
+	"Rosa.hpp"
+	"Colher.hpp"
+	"Escudo.hpp"
+	"Chaves.hpp"
+	"Simulador.hpp"
+	"Bola.hpp"
+	"Carta.hpp"
+	"PagarAluguel.hpp"
+	"Pirulito.hpp"
+	"Vassoura.hpp"
+	"Botas.hpp"
+	"Chapeu.hpp"
+	"Dinheiro.hpp"
+	"Oculos.hpp"
+	"Pasta.hpp"
+	"Kiko.hpp"
+	"Chiquinha.hpp"
+	"Jaiminho.hpp"
+	"SrBarriga.hpp"
+	"DonaFlorinda.hpp"
+
+1715642709 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\rosa.hpp
+	"ArmaAtaque.hpp"
+
+1715642379 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\armaataque.hpp
+	<string>
+
+1715642673 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\colher.hpp
+	"ArmaAtaque.hpp"
+
+1715642703 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\escudo.hpp
+	"ArmaAtaque.hpp"
+	"ArmaDefesa.hpp"
+
+1715642369 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\armadefesa.hpp
+	<string>
+
+1715642617 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\chaves.hpp
+	"Personagem.hpp"
+
+1715642358 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\personagem.hpp
+	<string>
+	"ArmaAtaque.hpp"
+	"ArmaDefesa.hpp"
+
+1715646283 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\simulador.hpp
+	<vector>
+	<string>
+	"Personagem.hpp"
+
+1715642592 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\armaataque.cpp
+	"ArmaAtaque.hpp"
+
+1715642610 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\armadefesa.cpp
+	"ArmaDefesa.hpp"
+
+1715643048 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\bola.cpp
+	"ArmaAtaque.hpp"
+	"Bola.hpp"
+
+1715643163 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\bola.hpp
+	"ArmaAtaque.hpp"
+
+1715643383 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\botas.cpp
+	"ArmaDefesa.hpp"
+	"Botas.hpp"
+
+1715643499 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\botas.hpp
+	"ArmaAtaque.hpp"
+	"ArmaDefesa.hpp"
+
+1715643069 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\carta.cpp
+	"ArmaAtaque.hpp"
+	"Carta.hpp"
+
+1715643178 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\carta.hpp
+	"ArmaAtaque.hpp"
+
+1715643409 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\chapeu.cpp
+	"ArmaDefesa.hpp"
+	"Chapeu.hpp"
+
+1715643517 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\chapeu.hpp
+	"ArmaAtaque.hpp"
+	"ArmaDefesa.hpp"
+
+1715642810 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\chaves.cpp
+	"Chaves.hpp"
+
+1715643676 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\chiquinha.cpp
+	"Chiquinha.hpp"
+
+1715643755 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\chiquinha.hpp
+	"Personagem.hpp"
+
+1715642631 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\colher.cpp
+	"ArmaAtaque.hpp"
+	"Colher.hpp"
+
+1715643438 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\dinheiro.cpp
+	"ArmaDefesa.hpp"
+	"Dinheiro.hpp"
+
+1715643538 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\dinheiro.hpp
+	"ArmaAtaque.hpp"
+	"ArmaDefesa.hpp"
+
+1715643696 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\donaflorinda.cpp
+	"DonaFlorinda.hpp"
+
+1715643770 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\donaflorinda.hpp
+	"Personagem.hpp"
+
+1715642657 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\escudo.cpp
+	"ArmaDefesa.hpp"
+	"Escudo.hpp"
+
+1715643709 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\jaiminho.cpp
+	"Jaiminho.hpp"
+
+1715643783 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\jaiminho.hpp
+	"Personagem.hpp"
+
+1715643857 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\kiko.cpp
+	"Kiko.hpp"
+
+1715643798 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\kiko.hpp
+	"Personagem.hpp"
+
+1715643456 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\oculos.cpp
+	"ArmaDefesa.hpp"
+	"Oculos.hpp"
+
+1715643555 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\oculos.hpp
+	"ArmaAtaque.hpp"
+	"ArmaDefesa.hpp"
+
+1715644073 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\pagaraluguel.cpp
+	"ArmaAtaque.hpp"
+	"PagarAluguel.hpp"
+	<string>
+
+1715643197 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\pagaraluguel.hpp
+	"ArmaAtaque.hpp"
+
+1715643475 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\pasta.cpp
+	"ArmaDefesa.hpp"
+	"Pasta.hpp"
+
+1715643571 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\pasta.hpp
+	"ArmaAtaque.hpp"
+	"ArmaDefesa.hpp"
+
+1715642645 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\personagem.cpp
+	"Personagem.hpp"
+	"ArmaAtaque.hpp"
+	"ArmaDefesa.hpp"
+
+1715643120 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\pirulito.cpp
+	"ArmaAtaque.hpp"
+	"Pirulito.hpp"
+
+1715643877 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\pirulito.hpp
+	"ArmaAtaque.hpp"
+
+1715642666 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\rosa.cpp
+	"ArmaAtaque.hpp"
+	"Rosa.hpp"
+
+1715644553 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\srbarriga.cpp
+	"SrBarriga.hpp"
+
+1715643819 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\srbarriga.hpp
+	"Personagem.hpp"
+
+1715643136 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\vassoura.cpp
+	"ArmaAtaque.hpp"
+	"Vassoura.hpp"
+
+1715643882 c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\include\vassoura.hpp
+	"ArmaAtaque.hpp"
+
+1715645614 source:c:\users\rauld\onedrive\햞ea de trabalho\este\simulador1\src\simulador.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"Simulador.hpp"
+	"Personagem.hpp"
+
